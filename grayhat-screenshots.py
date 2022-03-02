@@ -4,7 +4,7 @@
 #
 # grayhat-screenshot.py - Grab Screenshots from the short urls 
 #
-# By @RandomRobbieBF
+# By @Random-Robbie
 # 
 #
 
