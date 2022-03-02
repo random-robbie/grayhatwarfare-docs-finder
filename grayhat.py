@@ -4,7 +4,7 @@
 #
 # grayhat.py - Obtain Google Docs and Sheets for a specified domain that have been found in short urls.
 #
-# By @RandomRobbieBF
+# By @Random-Robbie
 # 
 #
 
